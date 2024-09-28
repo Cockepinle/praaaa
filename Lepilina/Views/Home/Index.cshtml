@@ -1,0 +1,184 @@
+﻿@{
+    var theme = ViewBag.Theme?.ToString();
+}
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/@(theme.ToLower()).css" rel="stylesheet" />
+    <link rel="stylesheet" href="~/css/@(theme == "dark" ? "site.css" : "black.css")">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+<body>
+    <form asp-action="ToggleTheme" method="post" class="theme-toggle-form">
+        <button type="submit" class="btn btn-tshirt womanFirsts" id="toggle-button">
+            <span class="tshirt-icon"></span> 
+        </button>
+    </form>
+    <div class="text-center">
+        <h2 class="display-4">Добро пожаловать в White silk</h2>
+        <h4 class="display-4 ">Откройте для себя эксклюзивные коллекции одежды от ведущих мировых брендов</h4>    
+    </div>
+        <video autoplay loop muted class="womanFirst">
+            <source src="vidio/3.MP4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+    <h2 class="display-4 mb-4" style="text-align: left;">PREMIUM COLLECTION</h2>
+   <div id="carouselExampleDark" class="carousel carousel-dark slide">
+       <div class="carousel-indicators">
+           <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+           <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
+           <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
+       </div>
+
+     <div class="carousel-inner">
+            <div class="carousel-item active" data-bs-interval="10000">
+                <div class="img row position-relative">
+                    <div class="col-4 position-relative">
+                        <img src="~/media/5.jpg" class="w-100" alt="Image 1">
+                        <div class="text-overlay">
+                            <p class="overlay-text" style="font-family: 'Times New Roman';">Кожаный костюм-юбка</p>
+                            <p style="font-family: 'Times New Roman';">20 900p</p>
+                        </div>
+                        <button class="like-button" onclick="toggleLike(this)">
+                            <i class="fas fa-heart"></i>
+                        </button>
+                    </div>
+
+                    <div class="col-4 position-relative">
+                        <img src="~/media/6.jpg" class="w-100" alt="Image 2">
+                         <div class="text-overlay">
+                            <p class="overlay-text" style="font-family: 'Times New Roman';">Кожаная панамка-беретка</p>
+                            <p style="font-family: 'Times New Roman';">6 999p</p>
+                        </div>
+                        <button class="like-button" onclick="toggleLike(this)">
+                            <i class="fas fa-heart"></i>
+                        </button>
+                    </div>
+                    <div class="col-4 position-relative">
+                        <img src="~/media/7.jpg" class="w-100" alt="Image 3">
+                         <div class="text-overlay">
+                            <p class="overlay-text" style="font-family: 'Times New Roman';">Виное пальто</p>
+                            <p style="font-family: 'Times New Roman';">30 999p</p>
+                        </div>
+                        <button class="like-button" onclick="toggleLike(this)">
+                            <i class="fas fa-heart"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+        <div class="carousel-item" data-bs-interval="2000">
+                <div class="img row position-relative">
+                    <div class="col-4 position-relative">
+                        <img src="~/media/11.jpg" class="w-100" alt="Image 1">
+                        <div class="text-overlay">
+                            <p class="overlay-text" style="font-family: 'Times New Roman';">Брюки</p>
+                            <p style="font-family: 'Times New Roman';">20 900p</p>
+                        </div>
+                        <button class="like-button" onclick="toggleLike(this)">
+                            <i class="fas fa-heart"></i>
+                        </button>
+                    </div>
+
+                    <div class="col-4 position-relative">
+                        <img src="~/media/9.jpg" class="w-100" alt="Image 2">
+                         <div class="text-overlay">
+                            <p class="overlay-text" style="font-family: 'Times New Roman';">Бордовый плащ</p>
+                            <p style="font-family: 'Times New Roman';">26 999p</p>
+                        </div>
+                        <button class="like-button" onclick="toggleLike(this)">
+                            <i class="fas fa-heart"></i>
+                        </button>
+                    </div>
+                    <div class="col-4 position-relative">
+                        <img src="~/media/10.jpg" class="w-100" alt="Image 3">
+                         <div class="text-overlay">
+                            <p class="overlay-text" style="font-family: 'Times New Roman';">Кожаное платье</p>
+                            <p style="font-family: 'Times New Roman';">38 999p</p>
+                        </div>
+                        <button class="like-button" onclick="toggleLike(this)">
+                            <i class="fas fa-heart"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+        <div class="carousel-item" data-bs-interval="2000">
+            <div class="img row position-relative">
+                <div class="col-4 position-relative">
+                    <img src="~/media/14.jpg" class="w-100" alt="Image 1">
+                    <div class="text-overlay">
+                        <p class="overlay-text" style="font-family: 'Times New Roman';">Кожаный бордовый костюм</p>
+                        <p style="font-family: 'Times New Roman';">17 999p</p>
+                    </div>
+                    <button class="like-button" onclick="toggleLike(this)">
+                        <i class="fas fa-heart"></i>
+                    </button>
+                </div>
+
+                <div class="col-4 position-relative">
+                    <img src="~/media/13.jpg" class="w-100" alt="Image 2">
+                        <div class="text-overlay">
+                        <p class="overlay-text" style="font-family: 'Times New Roman';">Кожаные сапоги</p>
+                        <p style="font-family: 'Times New Roman';">20 999p</p>
+                    </div>
+                    <button class="like-button" onclick="toggleLike(this)">
+                        <i class="fas fa-heart"></i>
+                    </button>
+                </div>
+                <div class="col-4 position-relative">
+                    <img src="~/media/15.jpg" class="w-100" alt="Image 3">
+                        <div class="text-overlay">
+                        <p class="overlay-text" style="font-family: 'Times New Roman';">Плащи</p>
+                        <p style="font-family: 'Times New Roman';">29 999p</p>
+                    </div>
+                    <button class="like-button" onclick="toggleLike(this)">
+                        <i class="fas fa-heart"></i>
+                    </button>
+                </div>
+            </div>
+    </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev" >
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+
+   <div class="text-center left">
+        <h2 class="display-4 mb-4" style="text-align: left;">COSTOMES</h2>
+
+        <div class="row align-items-center">
+            <div class="col-md-6 col-6">
+                <img src="~/media/cos1.jpg" class="rounded float-start img-fluid" alt="...">
+            </div>
+            <div class="col-md-6 col-6 text-md-right">
+                <h3>Men</h3>
+                <p>Классический костюм for men.</p>
+            </div>
+        </div>
+
+        <div class="row align-items-center">
+            <div class="col-md-6 col-6 text-md-left">
+                <h3>Woman</h3>
+                <p>Классический костюм for woman.</p>
+            </div>
+            <div class="col-md-6 col-6">
+                <img src="~/media/cos3.jpg" class="rounded float-end img-fluid" alt="...">
+            </div>
+        </div>
+    </div>
+
+</body>
+   
+
+
+

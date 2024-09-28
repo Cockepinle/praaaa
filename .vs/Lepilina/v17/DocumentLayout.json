@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alepi\\source\\repos\\Lepilina\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58383B64-A9D0-4069-9726-8B0BF420E1A2}|Lepilina\\Lepilina.csproj|c:\\users\\alepi\\source\\repos\\lepilina\\lepilina\\wwwroot\\css\\black.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{58383B64-A9D0-4069-9726-8B0BF420E1A2}|Lepilina\\Lepilina.csproj|solutionrelative:lepilina\\wwwroot\\css\\black.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58383B64-A9D0-4069-9726-8B0BF420E1A2}|Lepilina\\Lepilina.csproj|c:\\users\\alepi\\source\\repos\\lepilina\\lepilina\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58383B64-A9D0-4069-9726-8B0BF420E1A2}|Lepilina\\Lepilina.csproj|solutionrelative:lepilina\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58383B64-A9D0-4069-9726-8B0BF420E1A2}|Lepilina\\Lepilina.csproj|c:\\users\\alepi\\source\\repos\\lepilina\\lepilina\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{58383B64-A9D0-4069-9726-8B0BF420E1A2}|Lepilina\\Lepilina.csproj|solutionrelative:lepilina\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58383B64-A9D0-4069-9726-8B0BF420E1A2}|Lepilina\\Lepilina.csproj|c:\\users\\alepi\\source\\repos\\lepilina\\lepilina\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58383B64-A9D0-4069-9726-8B0BF420E1A2}|Lepilina\\Lepilina.csproj|solutionrelative:lepilina\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58383B64-A9D0-4069-9726-8B0BF420E1A2}|Lepilina\\Lepilina.csproj|c:\\users\\alepi\\source\\repos\\lepilina\\lepilina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58383B64-A9D0-4069-9726-8B0BF420E1A2}|Lepilina\\Lepilina.csproj|solutionrelative:lepilina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58383B64-A9D0-4069-9726-8B0BF420E1A2}|Lepilina\\Lepilina.csproj|c:\\users\\alepi\\source\\repos\\lepilina\\lepilina\\tem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58383B64-A9D0-4069-9726-8B0BF420E1A2}|Lepilina\\Lepilina.csproj|solutionrelative:lepilina\\tem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58383B64-A9D0-4069-9726-8B0BF420E1A2}|Lepilina\\Lepilina.csproj|c:\\users\\alepi\\source\\repos\\lepilina\\lepilina\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58383B64-A9D0-4069-9726-8B0BF420E1A2}|Lepilina\\Lepilina.csproj|solutionrelative:lepilina\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58383B64-A9D0-4069-9726-8B0BF420E1A2}|Lepilina\\Lepilina.csproj|c:\\users\\alepi\\source\\repos\\lepilina\\lepilina\\views\\some\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58383B64-A9D0-4069-9726-8B0BF420E1A2}|Lepilina\\Lepilina.csproj|solutionrelative:lepilina\\views\\some\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58383B64-A9D0-4069-9726-8B0BF420E1A2}|Lepilina\\Lepilina.csproj|c:\\users\\alepi\\source\\repos\\lepilina\\lepilina\\views\\home\\catalod.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58383B64-A9D0-4069-9726-8B0BF420E1A2}|Lepilina\\Lepilina.csproj|solutionrelative:lepilina\\views\\home\\catalod.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58383B64-A9D0-4069-9726-8B0BF420E1A2}|Lepilina\\Lepilina.csproj|c:\\users\\alepi\\source\\repos\\lepilina\\lepilina\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58383B64-A9D0-4069-9726-8B0BF420E1A2}|Lepilina\\Lepilina.csproj|solutionrelative:lepilina\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58383B64-A9D0-4069-9726-8B0BF420E1A2}|Lepilina\\Lepilina.csproj|c:\\users\\alepi\\source\\repos\\lepilina\\lepilina\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58383B64-A9D0-4069-9726-8B0BF420E1A2}|Lepilina\\Lepilina.csproj|solutionrelative:lepilina\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58383B64-A9D0-4069-9726-8B0BF420E1A2}|Lepilina\\Lepilina.csproj|c:\\users\\alepi\\source\\repos\\lepilina\\lepilina\\controllers\\favoritescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58383B64-A9D0-4069-9726-8B0BF420E1A2}|Lepilina\\Lepilina.csproj|solutionrelative:lepilina\\controllers\\favoritescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58383B64-A9D0-4069-9726-8B0BF420E1A2}|Lepilina\\Lepilina.csproj|c:\\users\\alepi\\source\\repos\\lepilina\\lepilina\\controllers\\somecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58383B64-A9D0-4069-9726-8B0BF420E1A2}|Lepilina\\Lepilina.csproj|solutionrelative:lepilina\\controllers\\somecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58383B64-A9D0-4069-9726-8B0BF420E1A2}|Lepilina\\Lepilina.csproj|c:\\users\\alepi\\source\\repos\\lepilina\\lepilina\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58383B64-A9D0-4069-9726-8B0BF420E1A2}|Lepilina\\Lepilina.csproj|solutionrelative:lepilina\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58383B64-A9D0-4069-9726-8B0BF420E1A2}|Lepilina\\Lepilina.csproj|c:\\users\\alepi\\source\\repos\\lepilina\\lepilina\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58383B64-A9D0-4069-9726-8B0BF420E1A2}|Lepilina\\Lepilina.csproj|solutionrelative:lepilina\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58383B64-A9D0-4069-9726-8B0BF420E1A2}|Lepilina\\Lepilina.csproj|c:\\users\\alepi\\source\\repos\\lepilina\\lepilina\\views\\home\\likes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58383B64-A9D0-4069-9726-8B0BF420E1A2}|Lepilina\\Lepilina.csproj|solutionrelative:lepilina\\views\\home\\likes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58383B64-A9D0-4069-9726-8B0BF420E1A2}|Lepilina\\Lepilina.csproj|c:\\users\\alepi\\source\\repos\\lepilina\\lepilina\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{58383B64-A9D0-4069-9726-8B0BF420E1A2}|Lepilina\\Lepilina.csproj|solutionrelative:lepilina\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58383B64-A9D0-4069-9726-8B0BF420E1A2}|Lepilina\\Lepilina.csproj|c:\\users\\alepi\\source\\repos\\lepilina\\lepilina\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58383B64-A9D0-4069-9726-8B0BF420E1A2}|Lepilina\\Lepilina.csproj|solutionrelative:lepilina\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58383B64-A9D0-4069-9726-8B0BF420E1A2}|Lepilina\\Lepilina.csproj|c:\\users\\alepi\\source\\repos\\lepilina\\lepilina\\lepilina.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{58383B64-A9D0-4069-9726-8B0BF420E1A2}|Lepilina\\Lepilina.csproj|solutionrelative:lepilina\\lepilina.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1546,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\alepi\\source\\repos\\Lepilina\\Lepilina\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Lepilina\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\alepi\\source\\repos\\Lepilina\\Lepilina\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Lepilina\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-21T08:15:51.726Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alepi\\source\\repos\\Lepilina\\Lepilina\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lepilina\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alepi\\source\\repos\\Lepilina\\Lepilina\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lepilina\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T07:50:43.164Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tem.cs",
+              "DocumentMoniker": "C:\\Users\\alepi\\source\\repos\\Lepilina\\Lepilina\\Tem.cs",
+              "RelativeDocumentMoniker": "Lepilina\\Tem.cs",
+              "ToolTip": "C:\\Users\\alepi\\source\\repos\\Lepilina\\Lepilina\\Tem.cs",
+              "RelativeToolTip": "Lepilina\\Tem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T08:33:08.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alepi\\source\\repos\\Lepilina\\Lepilina\\Program.cs",
+              "RelativeDocumentMoniker": "Lepilina\\Program.cs",
+              "ToolTip": "C:\\Users\\alepi\\source\\repos\\Lepilina\\Lepilina\\Program.cs",
+              "RelativeToolTip": "Lepilina\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T07:49:23.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "black.css",
+              "DocumentMoniker": "C:\\Users\\alepi\\source\\repos\\Lepilina\\Lepilina\\wwwroot\\css\\black.css",
+              "RelativeDocumentMoniker": "Lepilina\\wwwroot\\css\\black.css",
+              "ToolTip": "C:\\Users\\alepi\\source\\repos\\Lepilina\\Lepilina\\wwwroot\\css\\black.css",
+              "RelativeToolTip": "Lepilina\\wwwroot\\css\\black.css",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAD8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-28T08:11:11.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\alepi\\source\\repos\\Lepilina\\Lepilina\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lepilina\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\alepi\\source\\repos\\Lepilina\\Lepilina\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lepilina\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T07:44:06.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\alepi\\source\\repos\\Lepilina\\Lepilina\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lepilina\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\alepi\\source\\repos\\Lepilina\\Lepilina\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lepilina\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T07:38:09.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alepi\\source\\repos\\Lepilina\\Lepilina\\Views\\Some\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lepilina\\Views\\Some\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alepi\\source\\repos\\Lepilina\\Lepilina\\Views\\Some\\Index.cshtml",
+              "RelativeToolTip": "Lepilina\\Views\\Some\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T08:08:48.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Catalod.cshtml",
+              "DocumentMoniker": "C:\\Users\\alepi\\source\\repos\\Lepilina\\Lepilina\\Views\\Home\\Catalod.cshtml",
+              "RelativeDocumentMoniker": "Lepilina\\Views\\Home\\Catalod.cshtml",
+              "ToolTip": "C:\\Users\\alepi\\source\\repos\\Lepilina\\Lepilina\\Views\\Home\\Catalod.cshtml",
+              "RelativeToolTip": "Lepilina\\Views\\Home\\Catalod.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T08:00:02.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\alepi\\source\\repos\\Lepilina\\Lepilina\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Lepilina\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\alepi\\source\\repos\\Lepilina\\Lepilina\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Lepilina\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T07:50:02.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\alepi\\source\\repos\\Lepilina\\Lepilina\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Lepilina\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\alepi\\source\\repos\\Lepilina\\Lepilina\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Lepilina\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T07:44:06.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FavoritesController.cs",
+              "DocumentMoniker": "C:\\Users\\alepi\\source\\repos\\Lepilina\\Lepilina\\Controllers\\FavoritesController.cs",
+              "RelativeDocumentMoniker": "Lepilina\\Controllers\\FavoritesController.cs",
+              "ToolTip": "C:\\Users\\alepi\\source\\repos\\Lepilina\\Lepilina\\Controllers\\FavoritesController.cs",
+              "RelativeToolTip": "Lepilina\\Controllers\\FavoritesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T18:27:28.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SomeController.cs",
+              "DocumentMoniker": "C:\\Users\\alepi\\source\\repos\\Lepilina\\Lepilina\\Controllers\\SomeController.cs",
+              "RelativeDocumentMoniker": "Lepilina\\Controllers\\SomeController.cs",
+              "ToolTip": "C:\\Users\\alepi\\source\\repos\\Lepilina\\Lepilina\\Controllers\\SomeController.cs",
+              "RelativeToolTip": "Lepilina\\Controllers\\SomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T08:04:52.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\alepi\\source\\repos\\Lepilina\\Lepilina\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Lepilina\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\alepi\\source\\repos\\Lepilina\\Lepilina\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Lepilina\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T07:44:12.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\alepi\\source\\repos\\Lepilina\\Lepilina\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Lepilina\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\alepi\\source\\repos\\Lepilina\\Lepilina\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Lepilina\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T18:37:12.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Likes.cshtml",
+              "DocumentMoniker": "C:\\Users\\alepi\\source\\repos\\Lepilina\\Lepilina\\Views\\Home\\Likes.cshtml",
+              "RelativeDocumentMoniker": "Lepilina\\Views\\Home\\Likes.cshtml",
+              "ToolTip": "C:\\Users\\alepi\\source\\repos\\Lepilina\\Lepilina\\Views\\Home\\Likes.cshtml",
+              "RelativeToolTip": "Lepilina\\Views\\Home\\Likes.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T18:41:17.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\alepi\\source\\repos\\Lepilina\\Lepilina\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Lepilina\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\alepi\\source\\repos\\Lepilina\\Lepilina\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Lepilina\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-21T08:15:54.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\alepi\\source\\repos\\Lepilina\\Lepilina\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Lepilina\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\alepi\\source\\repos\\Lepilina\\Lepilina\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Lepilina\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T07:50:41.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Lepilina",
+              "DocumentMoniker": "C:\\Users\\alepi\\source\\repos\\Lepilina\\Lepilina\\Lepilina.csproj",
+              "RelativeDocumentMoniker": "Lepilina\\Lepilina.csproj",
+              "ToolTip": "C:\\Users\\alepi\\source\\repos\\Lepilina\\Lepilina\\Lepilina.csproj",
+              "RelativeToolTip": "Lepilina\\Lepilina.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-07T07:43:48.636Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
